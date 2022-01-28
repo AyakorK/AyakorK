@@ -4,7 +4,7 @@ I'm Guillaume MORET, a young sutdent that started code in 2021 and who's current
 I'm using few languages but I'm mainly attracted by JavaScript, PHP and I want to learn NodeJS and ReactJS.
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyakorK &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyakorK&theme=radical)
 
 
 <!--
