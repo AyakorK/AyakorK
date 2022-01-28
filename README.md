@@ -1,4 +1,11 @@
-### Hi there 👋
+### Presentation
+Hi there !
+I'm Guillaume MORET, a young sutdent that started code in 2021 and who's currently studying on the CodingFactory by ESIEE-IT.
+I'm using few languages but I'm mainly attracted by JavaScript, PHP and I want to learn NodeJS and ReactJS.
+
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyakorK &theme=radical)
+
 
 <!--
 **AyakorK/AyakorK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
