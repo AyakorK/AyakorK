@@ -1,6 +1,6 @@
 ### Presentation
 Hi there !
-I'm Guillaume MORET, a young sutdent that started code in 2021 and who's currently studying on the CodingFactory by ESIEE-IT.
+I'm Guillaume MORET, a young student that started code in 2021 and who's currently studying on the CodingFactory by ESIEE-IT.
 I'm using few languages but I'm mainly attracted by JavaScript, PHP and I want to learn NodeJS and ReactJS.
 
 ### Stats
