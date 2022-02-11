@@ -5,6 +5,7 @@ I'm using few languages but I'm mainly attracted by JavaScript, PHP and I want t
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyakorK&theme=radical)
+![Programmation Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyakorK&show_icons=true&theme=tokyonight)
 
 
 <!--
