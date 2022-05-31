@@ -2,6 +2,7 @@
 Hi there !
 I'm Guillaume MORET, a young student that started code in 2021 and who's currently studying on the CodingFactory by ESIEE-IT.
 I'm using few languages but I'm mainly attracted by JavaScript, PHP and I want to learn NodeJS and ReactJS.
+Recently, I've been working a lot on Ruby and his web framework Ruby on Rails for my future internship 
 
 
 ### 💻 Programming skills:
