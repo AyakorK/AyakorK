@@ -22,6 +22,10 @@ Recently, I've been working a lot on Ruby and his web framework Ruby on Rails fo
 ![Programmation Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyakorK&show_icons=true&theme=tokyonight)
 
 
+### Profile Views
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=AyakorK)
 
 <!--
 **AyakorK/AyakorK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
