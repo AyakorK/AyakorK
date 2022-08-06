@@ -20,11 +20,6 @@ Recently, I've been working a lot on Ruby and his web framework Ruby on Rails fo
 ### 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyakorK&theme=radical)
 ![Programmation Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyakorK&show_icons=true&theme=tokyonight)
-
-
-### Profile Views
-
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AyakorK)
 
 <!--
