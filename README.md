@@ -7,7 +7,9 @@ Recently, I've been working a lot on Ruby and his web framework Ruby on Rails fo
 
 ### 💻 Programming skills:
 
-![](https://img.shields.io/badge/Ruby-E34F26?style=for-the-badge&logo=java&logoColor=white)
+
+![](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
