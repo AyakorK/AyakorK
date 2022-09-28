@@ -21,7 +21,7 @@ Recently, I've been working a lot on Ruby and his web framework Ruby on Rails fo
 
 ### 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyakorK&theme=radical)
-![Programmation Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyakorK&show_icons=true&theme=tokyonight)
+![Programmation Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyakorK&show_icons=true&hide=HTML&theme=tokyonight)
 <!--
 **AyakorK/AyakorK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
